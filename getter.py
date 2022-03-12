@@ -2,7 +2,7 @@ import glob
 import os
 import time
 import shutil
-print("Checking existence of Topaz files files")
+print("Checking existence of Topaz model files")
 path_to_temp = 'Your path to Temp folder (%Temp%)'
 path_to_our_folder = 'Path to destination folder'
 os.chdir(path_to_temp)
